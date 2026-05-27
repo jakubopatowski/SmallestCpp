@@ -1,0 +1,21 @@
+# Katalogi budowania i pliki binarne
+build/
+bin/
+obj/
+out/
+
+# Pliki konfiguracji CMake / IDE
+CMakeSettings.json
+.cmake/
+.vscode/
+.idea/
+*.user
+
+# Pliki wykonywalne i biblioteki
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.so
+*.dll
